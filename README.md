@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## 🔧 Run the Project <a name = "Run_the_Project"></a>
 
 ```
-python main.py
+python twitter_scraper.py
 ```
 
 ## 🎈 Usage <a name="usage"></a>
